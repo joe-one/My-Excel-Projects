@@ -311,6 +311,8 @@ I used Excel to:
 <img width="849" height="608" alt="image" src="https://github.com/user-attachments/assets/738055ba-5263-4fc8-8ad2-c57d230b451a" />
 <img width="876" height="723" alt="image" src="https://github.com/user-attachments/assets/3b5be2e3-2ac0-41b2-b563-ad4685aecee6" />
 
+<img width="991" height="709" alt="image" src="https://github.com/user-attachments/assets/134e976a-0abe-4e5b-882d-2986669b2fa5" />
+
 
 
 
