@@ -237,7 +237,10 @@ Using Excel, I:
 - Highest student score detected: **90**
 - Two students share the highest score
 - Classroom performance shows clear clustering around mid‑range values
+
+## ✔️ Status: Completed
 ---
+
 
 ## 📊 PivotTable Reporting
 
@@ -290,9 +293,10 @@ I used Excel to:
 - **Adults (35–64)** drive the largest revenue contribution
 - **Youth** segment is unprofitable in nearly all markets
 
+## ✔️ Status: Completed
 ---
 
-## ✔️ Status: Completed
+
 
 ---
 
@@ -313,8 +317,8 @@ I used Excel to:
 
 <img width="991" height="709" alt="image" src="https://github.com/user-attachments/assets/134e976a-0abe-4e5b-882d-2986669b2fa5" />
 
-
-
+## ✔️ Status: Completed
+---
 
 # 📫 Connect With Me
 - **GitHub:**  https://github.com/joe-one/My-Excel-Projects/edit/main/README.md
