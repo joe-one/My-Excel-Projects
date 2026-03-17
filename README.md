@@ -307,15 +307,21 @@ I used Excel to:
 ![Line Charts](https://img.shields.io/badge/Line_Charts-A93226?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Pie Charts](https://img.shields.io/badge/Pie_Charts-922B21?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-<img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/04870160-be2d-46c2-b117-5460e0e89a9e" />
+<img width="780" height="436" alt="image" src="https://github.com/user-attachments/assets/04870160-be2d-46c2-b117-5460e0e89a9e" />
 
-<img width="769" height="430" alt="image" src="https://github.com/user-attachments/assets/0d76e507-f0e1-41f9-b3dc-270cae4ee625" />
-<img width="711" height="439" alt="image" src="https://github.com/user-attachments/assets/ae6c86fb-3ffb-4b3c-8ed3-9ef83872bca0" />
+<img width="780" height="436" alt="image" src="https://github.com/user-attachments/assets/0d76e507-f0e1-41f9-b3dc-270cae4ee625" />
+<img width="780" height="436" alt="image" src="https://github.com/user-attachments/assets/ae6c86fb-3ffb-4b3c-8ed3-9ef83872bca0" />
 
-<img width="849" height="608" alt="image" src="https://github.com/user-attachments/assets/738055ba-5263-4fc8-8ad2-c57d230b451a" />
-<img width="876" height="723" alt="image" src="https://github.com/user-attachments/assets/3b5be2e3-2ac0-41b2-b563-ad4685aecee6" />
+<img width="780" height="436" alt="image" src="https://github.com/user-attachments/assets/738055ba-5263-4fc8-8ad2-c57d230b451a" />
 
-<img width="991" height="709" alt="image" src="https://github.com/user-attachments/assets/134e976a-0abe-4e5b-882d-2986669b2fa5" />
+
+The bicycle sales company  Visualizing Pivot   Table & Chart  Data
+<img width="780" height="436" alt="image" src="https://github.com/user-attachments/assets/134e976a-0abe-4e5b-882d-2986669b2fa5" />
+
+Using the SWITCH function to categorise products based on Sales Volume as follows
+<img width="780" height="436" alt="image" src="https://github.com/user-attachments/assets/3b5be2e3-2ac0-41b2-b563-ad4685aecee6" />
+
+
 
 ## ✔️ Status: Completed
 ---
